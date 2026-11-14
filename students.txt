@@ -1,0 +1,6 @@
+101,Ravi,21,Python,85
+102,Raju,22,Java,90
+103,Sita,20,SQL,88
+104,Anu,21,Python,95
+105,Kiran,23,Java,80
+101,raje,20,python,100
